@@ -1,0 +1,9 @@
+*.fastq
+*.sra
+*.bam
+*.bai
+*.sam
+*.ht2
+*.idx
+*.gz
+fasterq.tmp.*/

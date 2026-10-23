@@ -1,0 +1,5 @@
+Sample	Top overrepresented sequence	Sum of remaining overrepresented sequences
+SRR1027172_1_paired	0.36	9.13
+SRR1027172_1_unpaired	1.34	12.07
+SRR1027172_2_paired	0.38	8.069999999999999
+SRR1027172_2_unpaired	1.89	15.989999999999998

@@ -1,0 +1,5 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	SRR1027172_1_paired	/home/mwikalilabs/breat_cancer_rnaseq_analysis/trimmed_fastq/SRR1027172_1_paired_fastqc.zip
+FastQC	all_sections	SRR1027172_1_unpaired	/home/mwikalilabs/breat_cancer_rnaseq_analysis/trimmed_fastq/SRR1027172_1_unpaired_fastqc.zip
+FastQC	all_sections	SRR1027172_2_paired	/home/mwikalilabs/breat_cancer_rnaseq_analysis/trimmed_fastq/SRR1027172_2_paired_fastqc.zip
+FastQC	all_sections	SRR1027172_2_unpaired	/home/mwikalilabs/breat_cancer_rnaseq_analysis/trimmed_fastq/SRR1027172_2_unpaired_fastqc.zip
