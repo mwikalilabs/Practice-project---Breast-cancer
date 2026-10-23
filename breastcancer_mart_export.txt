@@ -1,0 +1,16 @@
+Gene stable ID,Gene description,Gene type
+ENSG00000142156,collagen type VI alpha 1 chain [Source:HGNC Symbol;Acc:HGNC:2211],protein_coding
+ENSG00000142173,collagen type VI alpha 2 chain [Source:HGNC Symbol;Acc:HGNC:2212],protein_coding
+ENSG00000142192,amyloid beta precursor protein [Source:HGNC Symbol;Acc:HGNC:620],protein_coding
+ENSG00000157601,MX dynamin like GTPase 1 [Source:HGNC Symbol;Acc:HGNC:7532],protein_coding
+ENSG00000160213,cystatin B [Source:HGNC Symbol;Acc:HGNC:2482],protein_coding
+ENSG00000182670,tetratricopeptide repeat domain 3 [Source:HGNC Symbol;Acc:HGNC:12393],protein_coding
+ENSG00000183255,PTTG1 interacting protein [Source:HGNC Symbol;Acc:HGNC:13524],protein_coding
+ENSG00000198618,peptidylprolyl isomerase A pseudogene 22 [Source:HGNC Symbol;Acc:HGNC:17236],processed_pseudogene
+ENSG00000205581,high mobility group nucleosome binding domain 1 [Source:HGNC Symbol;Acc:HGNC:4984],protein_coding
+ENSG00000213885,ribosomal protein L13a pseudogene 7 [Source:HGNC Symbol;Acc:HGNC:23755],transcribed_processed_pseudogene
+ENSG00000217026,ribosomal protein L10 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:10300],processed_pseudogene
+ENSG00000223822,eukaryotic translation elongation factor 1 alpha 1 pseudogene 1 [Source:HGNC Symbol;Acc:HGNC:3191],processed_pseudogene
+ENSG00000280614,"novel transcript, similar to YY1 associated myogenesis RNA 1 YAM1",lncRNA
+ENSG00000281181,"novel transcript, similar to YY1 associated myogenesis RNA 1 YAM1",lncRNA
+ENSG00000281383,"novel transcript, similar to YY1 associated myogenesis RNA 1 YAM1",lncRNA
